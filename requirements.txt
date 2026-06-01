@@ -1,9 +1,29 @@
-osmnx
-pandas
-networkx
+# Core
 numpy
-geopandas
-shapely
-matplotlib
+pandas
 scipy
 scikit-learn
+
+# Geospatial
+osmnx
+geopandas
+shapely
+pyproj
+rtree
+
+# Graph
+networkx
+
+# Visualization
+matplotlib
+seaborn
+folium
+plotly
+
+# Routing & Optimization
+ortools
+
+# Notebook
+jupyter
+ipykernel
+tqdm
