@@ -14,3 +14,7 @@ venv/
 
 # VS Code settings
 .vscode/
+
+# Windows system files
+desktop.ini
+Thumbs.db
